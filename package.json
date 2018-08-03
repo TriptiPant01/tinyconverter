@@ -1,0 +1,17 @@
+{
+  "name": "@tripti/tiny",
+  "version": "1.0.0",
+  "description": "removes all the space from string",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tiny",
+    "npm",
+    "package",
+    "tripti"
+  ],
+  "author": "tripti",
+  "license": "MIT"
+}
